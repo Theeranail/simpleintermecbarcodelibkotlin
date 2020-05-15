@@ -1,0 +1,3 @@
+rootProject.name='SimpleIntermecKotlin'
+include ':app'
+include ':simpleintermecbarcodelib'
